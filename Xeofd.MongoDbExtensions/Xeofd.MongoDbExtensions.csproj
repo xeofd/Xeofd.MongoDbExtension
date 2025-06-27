@@ -8,6 +8,7 @@
         <Description>A simple MongoDB client dependency injection package</Description>
         <VersionPrefix>$(HealthCheckMongoDB)</VersionPrefix>
         <PackageTags>MongoDb;</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
