@@ -6,13 +6,11 @@
         <Nullable>enable</Nullable>
         <RootNamespace>Xaobec.MongoDbExtension</RootNamespace>
         <Description>A simple MongoDB client dependency injection package</Description>
-        <VersionPrefix>$(HealthCheckMongoDB)</VersionPrefix>
         <PackageTags>MongoDb;</PackageTags>
-        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <PropertyGroup>
-        <PackageId>NuGet.Workflow</PackageId>
+        <PackageId>Xeofd.MongoDbExtension</PackageId>
         <RepositoryType>git</RepositoryType>
         <RepositoryUrl>https://github.com/xeofd/Xeofd.MongoDbExtension</RepositoryUrl>
     </PropertyGroup>
